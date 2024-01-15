@@ -1,4 +1,4 @@
-<h1 align="center">Voi Network</h1>
+<h1 align="center">Voi Network Testnet Node</h1>
 
 > Adım adım gittiğiniz taktirde `sorunsuz` bir kurulum olacaktır.
 
@@ -14,15 +14,15 @@
 
 #
 
-> ÖNEMLİ LİNKLER: [Duyuru](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) - [Discord](https://discord.gg/t7qVBD6m) - [Whitepaper](https://afaf83a4-6c33-4e2a-a40c-9999410c0063.filesusr.com/ugd/7dc173_8e16834f2fbd4866a957d441f392d578.pdf)
-
+> ÖNEMLİ LİNKLER:  [Discord](https://discord.gg/t7qVBD6m) - [Whitepaper](https://afaf83a4-6c33-4e2a-a40c-9999410c0063.filesusr.com/ugd/7dc173_8e16834f2fbd4866a957d441f392d578.pdf)
+> KAYNAK ÇİN ÖZEL TEŞEKKÜR:[Duyuru](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) 
 <h1 align="center">Donanım ve Güncelleme</h1>
 
 ```console
 # Dökümasyonda fazlası yazsada bu yeterlidir. !!(Ubuntu 20.04e kurdum)!!
-4 CPU 8 RAM 80 SSD - Ubuntu 22.04
-# Benim Tavsiyem Ar-io nodeunuzun yanına kurmanız, ben öyle yaptım ayrı sunucu satın almadım.
-# Ar-io yok diyorsanız başka node olur, ayrı sunucuya gerek yok şimdilik.
+4 CPU 4 RAM + 4GB SWAP 220 GB SSD - Ubuntu 22.04
+# BEVM ile beraber kullanıyorum, ben öyle yaptım ayrı sunucu satın almadım.
+
 ```
 
 > Lokasyon olarak kabaca görselde gösterdiğim lokasyonda yer alırsanız üst sıralarda olup daha fazla ödül alabilirsiniz;
